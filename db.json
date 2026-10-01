@@ -1,0 +1,29 @@
+{
+  "chamados": [
+    {
+      "id": "1",
+      "nome": "Mara Fermino",
+      "setor": "Financeiro",
+      "tipoProblema": "Excel",
+      "descricao": "Planilha não abre mais",
+      "prioridade": "Alta"
+    },
+    {
+      "id": "2",
+      "nome": "Isabel",
+      "setor": "RH",
+      "tipoProblema": "Hardware",
+      "descricao": "Não tá funcionando",
+      "prioridade": "Alta"
+    },
+    {
+      "nome": "fewewefefef",
+      "setor": "Financeiro",
+      "tipoProblema": "Software",
+      "descricao": "fssfsdffsasffsda",
+      "prioridade": "Baixa",
+      "id": "BJ5-9lk2Nk8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
